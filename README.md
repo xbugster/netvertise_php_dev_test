@@ -3,9 +3,9 @@
 
 Author: Valentin Ruskevych Leaderpvp@gmail.com
 
-Task: check out task.pdf in root folder.
+Task: check out [event_based_test.odt](event_based_test.odt) in root folder.
 
-Code Date: August 2017
+Code Date: June 2013
 
 ## Project
 ======
@@ -14,14 +14,14 @@ Event Based Comment System - Netvertize Test
 
 
 1. Requirement
-======
+
 Webserver :)
 PHP > 5.3
 PHPUnit > 3.4.5
 MySQL 5.x Database
 
 2. Installation
-======
+
 2.1 Place project into proper folder ( ex. /var/www/events.com/ ).
 
     ---
