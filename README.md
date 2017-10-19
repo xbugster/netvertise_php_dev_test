@@ -22,6 +22,9 @@ Event Based Comment System - Netvertize Test
 2. Installation
 
     1. Place project into proper folder ( ex. /var/www/events.com/ ).
+        
+        ---
+        
     2. Set up your config
         
         Config resides within folder /lib/config/, edit config with your favorite text editor.
@@ -61,6 +64,8 @@ Event Based Comment System - Netvertize Test
         Received the green result?
 
         My congratulations. you are now ready to proceed development.
+        
+        ---
 
 3. Design
     - Commander   - Running Chain of commands from receiving request to events execution
