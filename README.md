@@ -75,6 +75,8 @@ Event Based Comment System - Netvertize Test
     - EventManager- Singleton responsible for executing proper event, defined by router
     - Router      - Simply determines the event to be executed, relies on received GET parameter "action"
     - DbLayer     - Adapter, implements DataLinkInterface
+    
+    ---
 
 4. Developers Guidelines
     - First and most important - make sure you test code after every change done.
