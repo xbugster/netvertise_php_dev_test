@@ -8,17 +8,16 @@ Task: check out [event_based_test.odt](event_based_test.odt) in root folder.
 Code Date: June 2013
 
 ## Project
-======
 
 Event Based Comment System - Netvertize Test
 
 
 1. Requirement
 
-Webserver :)
-PHP > 5.3
-PHPUnit > 3.4.5
-MySQL 5.x Database
+** Webserver :)
+** PHP > 5.3
+** PHPUnit > 3.4.5
+** MySQL 5.x Database
 
 2. Installation
 
